@@ -1,7 +1,7 @@
 @charset 'UTF-8';
 @import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900');
 @import url('font-awesome.min.css');
-
+@import url('osp_le-partin-helvetemedium.mini.css');
 /*
 	Big Picture by HTML5 UP
 	html5up.net | @n33co
@@ -14,6 +14,7 @@
 
 	body {
 		background: #fff;
+		direction: rtl;
 	}
 
 		body.is-loading *
@@ -31,7 +32,7 @@
 		}
 
 	body,input,textarea,select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'osp_le-patin-helvetemedium';
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
